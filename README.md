@@ -16,7 +16,7 @@ Spam-Email-Classifier/
 │ └── spam.csv                          # Labeled email data
 ├── notebook/                           # Exploration & training notebooks
 │ ├── .ipynb_checkpoints/
-│ └── spam_classification.ipynb
+│ └── spam_classification.ipynb         # All Code
 ├── DTC.pkl                             # Saved Decision Tree model
 ├── LR.pkl                              # Saved Logistic Regression model
 ├── MNB.pkl                             # Saved Multinomial NB model
